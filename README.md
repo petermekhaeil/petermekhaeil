@@ -11,6 +11,4 @@ I am a software engineer with a passion for making the web faster.
 - [How to get started with improving site performance](https://petermekhaeil.com/how-to-get-started-with-improving-site-performance/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petermekhaeil&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=petermekhaeil&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petermekhaeil&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

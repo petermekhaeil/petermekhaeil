@@ -4,6 +4,7 @@ I am a software engineer with a passion for making the web faster.
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxying Ackee through Netlify](https://petermekhaeil.com/proxying-ackee-through-netlify/)
 - [3 benefits interviews bring you](https://petermekhaeil.com/3-benefits-interviews-bring-you/)
 - [Measuring the performance of the McLaren Racing website](https://petermekhaeil.com/measuring-the-performance-of-the-mclaren-racing-website/)
 - [How to build an app with Remix and Netlify Graph](https://petermekhaeil.com/how-to-build-an-app-with-remix-and-netlify-graph/)

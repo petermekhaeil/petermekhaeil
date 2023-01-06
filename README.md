@@ -3,13 +3,13 @@ Hi 👋 My name is Peter Mekhaeil
 
 Web Developer
 -------------
-I am a developer with a passion for making the web faster. I teach about web development using the latest technologies.
+I am an experienced web developer with a focus on optimizing performance and delivering a seamless user experience. I teach about web development using the latest technologies.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [petermekhaeil.com](http://petermekhaeil.com)
-* 🧠  I'm learning React, Svelte and TypeScript.
+* 🧠  I document my daily learnings in my [Today I Learned](https://github.com/petermekhaeil/til) repository.
 * 🤝  I'm open to collaborating on building online communities.
-* ⚡  I was born in Egypt and then raised in Australia, where I found a love for computers, cars and the outdoors. If I am not on my computer, you will find me outside exploring new places to run.
+* ⚡  I have a diverse background, having been born in Egypt and raised in Australia. This upbringing sparked my love for computers, cars, and the outdoors. When I'm not working on the web, you can find me running and exploring new outdoor locations. 
 
 <a href="https://www.twitter.com/petermekh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/petermekh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

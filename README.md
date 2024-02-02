@@ -1,14 +1,12 @@
 Hi 👋 My name is Peter Mekhaeil
 ===============================
 
-Web Developer
--------------
 I am an experienced web developer with a focus on optimizing performance and delivering a seamless user experience. I teach about web development using the latest technologies.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [petermekhaeil.com](http://petermekhaeil.com)
 * 🧠  I document my daily learnings in my [Today I Learned](https://github.com/petermekhaeil/til) repository.
-* 🤝  I'm open to collaborating on building online communities.
+* 🤝  I've available as a mentor on [ADPlist](https://adplist.org/mentors/peter-mekhaeil).
 * ⚡  I have a diverse background, having been born in Egypt and raised in Australia. This upbringing sparked my love for computers, cars, and the outdoors. When I'm not working on the web, you can find me running and exploring new outdoor locations. 
 
 <a href="https://www.twitter.com/petermekh" target="_blank" rel="noreferrer"><img

@@ -9,9 +9,9 @@ I am an experienced web developer with a focus on optimizing performance and del
 * 🤝  I've available as a mentor on [ADPlist](https://adplist.org/mentors/peter-mekhaeil).
 * ⚡  I have a diverse background, having been born in Egypt and raised in Australia. This upbringing sparked my love for computers, cars, and the outdoors. When I'm not working on the web, you can find me running and exploring new outdoor locations. 
 
-<a href="https://www.twitter.com/petermekh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/petermekh"
-/></a>
+<a href="https://www.twitter.com/petermekh" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/petermekh" />
+</a>
 
 ### Skills
 

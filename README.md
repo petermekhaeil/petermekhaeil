@@ -10,7 +10,7 @@ I am an experienced web developer with a focus on optimizing performance and del
 * ⚡  I have a diverse background, having been born in Egypt and raised in Australia. This upbringing sparked my love for computers, cars, and the outdoors. When I'm not working on the web, you can find me running and exploring new outdoor locations. 
 
 <a href="https://www.twitter.com/petermekh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/petermekh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/petermekh"
 /></a>
 
 ### Skills

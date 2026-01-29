@@ -16,6 +16,9 @@ Hi, I'm Peter 👋
            
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Native Documentation](https://petermekhaeil.com/ai-native-documentation/)
+- [Building a Today I Learned Habit](https://petermekhaeil.com/building-a-today-i-learned-habit/)
+- [Accelerate your delivery with modern tools](https://petermekhaeil.com/accelerate-your-delivery-with-modern-tools/)
 - [How to build an npx starter template](https://petermekhaeil.com/how-to-build-an-npx-starter-template/)
 - [Typescript tips by Matt Pocock](https://petermekhaeil.com/typescript-tips-by-matt-pocock/)
 - [How to keep undefined values in JSON.stringify](https://petermekhaeil.com/how-to-keep-undefined-values-in-json.stringify/)

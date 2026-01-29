@@ -16,7 +16,7 @@ Hi, I'm Peter 👋
 </p>
 
 ### Projects
-- [Page Speed Insights](https://speedinsights.vercel.app)            
+- [Page Speed Insights](https://speedinsights.vercel.app) - Compare website performance using real user data from Chrome UX Report. Track Core Web Vitals (LCP, INP, CLS) across sites.            
            
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->

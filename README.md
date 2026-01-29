@@ -40,5 +40,3 @@ Hi, I'm Peter 👋
 - [What I have learnt as an engineering manager](https://petermekhaeil.com/what-i-have-learnt-as-an-engineering-manager/)
 - [Be strong like your code](https://petermekhaeil.com/be-strong-like-your-code/)
 <!-- BLOG-POST-LIST:END -->
-
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petermekhaeil&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

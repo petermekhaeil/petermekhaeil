@@ -12,7 +12,8 @@ Hi, I'm Peter 👋
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Projects
-- [Page Speed Insights](https://speedinsights.vercel.app) - Compare website performance using real user data from Chrome UX Report. Track Core Web Vitals (LCP, INP, CLS) across sites.            
+- [Page Speed Insights](https://speedinsights.vercel.app) - Compare website performance using real user data from Chrome UX Report. Track Core Web Vitals (LCP, INP, CLS) across sites.
+- [libre-cli](https://github.com/petermekhaeil/libre-cli) - Fast CLI for retrieving glucose levels from Libre sensors via the LibreLinkUp API.            
            
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->

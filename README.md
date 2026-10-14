@@ -12,11 +12,18 @@ Hi, I'm Peter 👋
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Projects
+- [mini-agent](https://github.com/petermekhaeil/mini-agent) - A small coding agent built to explore how coding agents work.
+- [cvAI](https://www.cvai.app/) - Generate a cover letter from a resume and job description.
+- [salary-negotiating](https://github.com/petermekhaeil/salary-negotiating) - A collection of resources on negotiating salary.
 - [Page Speed Insights](https://speedinsights.vercel.app) - Compare website performance using real user data from Chrome UX Report. Track Core Web Vitals (LCP, INP, CLS) across sites.
 - [libre-cli](https://github.com/petermekhaeil/libre-cli) - Fast CLI for retrieving glucose levels from Libre sensors via the LibreLinkUp API.            
+- [Vercel Deployment Downloader](https://github.com/petermekhaeil/vercel-deployment-downloader) - Download source files from a Vercel deployment.
+- [Tailwind CSS Explorer](https://github.com/petermekhaeil/vscode-tailwindcss-explorer) - A VS Code extension for exploring Tailwind CSS classes.
+- [zodaxios](https://github.com/petermekhaeil/zodaxios) - An HTTP client with Zod-validated responses.
            
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Building my personal AI Assistant](https://petermekhaeil.com/building-my-personal-ai-assistant/)
 - [AI Native Documentation](https://petermekhaeil.com/ai-native-documentation/)
 - [Building a Today I Learned Habit](https://petermekhaeil.com/building-a-today-i-learned-habit/)
 - [Accelerate your delivery with modern tools](https://petermekhaeil.com/accelerate-your-delivery-with-modern-tools/)
